@@ -27,3 +27,53 @@ TIME WINDOW:
  2000 - 2500  ms
 
 ================================================
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hippocampal Network Analysis</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 80px;
+}
+
+a {
+  display: block;
+  width: 300px;
+  margin: 25px auto;
+  padding: 15px;
+  background-color: #4575b4;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: #2c5f8a;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Hippocampal Network Visualization</h1>
+
+<p>
+Interactive 3D neural connectivity graphs
+</p>
+
+<a href="Correct_InSeq_Network1.html">
+Correct InSeq Network
+</a>
+
+<a href="Correct_OutSeq_Network1.html">
+Correct OutSeq Network
+</a>
+
+</body>
+</html>
